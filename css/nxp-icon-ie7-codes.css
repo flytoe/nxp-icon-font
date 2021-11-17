@@ -357,6 +357,8 @@
 .icon-nxp-sensor { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe963;&nbsp;'); }
 .icon-nxp-signal { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe964;&nbsp;'); }
 .icon-fa-check { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe965;&nbsp;'); }
+.icon-fa-grip-dots-vertical { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe966;&nbsp;'); }
+.icon-nxp-lte { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe967;&nbsp;'); }
 .icon-nxp-smart-access { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe968;&nbsp;'); }
 .icon-nxp-smart-card { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe969;&nbsp;'); }
 .icon-nxp-smart-control { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe96a;&nbsp;'); }

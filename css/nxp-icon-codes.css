@@ -357,6 +357,8 @@
 .icon-nxp-sensor:before { content: '\e963'; } /* '' */
 .icon-nxp-signal:before { content: '\e964'; } /* '' */
 .icon-fa-check:before { content: '\e965'; } /* '' */
+.icon-fa-grip-dots-vertical:before { content: '\e966'; } /* '' */
+.icon-nxp-lte:before { content: '\e967'; } /* '' */
 .icon-nxp-smart-access:before { content: '\e968'; } /* '' */
 .icon-nxp-smart-card:before { content: '\e969'; } /* '' */
 .icon-nxp-smart-control:before { content: '\e96a'; } /* '' */
