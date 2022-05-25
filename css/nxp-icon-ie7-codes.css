@@ -452,3 +452,7 @@
 .icon-nxp-wireless-charger { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe9c2;&nbsp;'); }
 .icon-nxp-wireless { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe9c3;&nbsp;'); }
 .icon-nxp-worldwide-location { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe9c4;&nbsp;'); }
+.icon-fa-circle-check-ui { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe9c5;&nbsp;'); }
+.icon-fa-circle-exclamation-bold-ui { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe9c6;&nbsp;'); }
+.icon-fa-circle-exclamation-ui { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe9c7;&nbsp;'); }
+.icon-fa-circle-xmark-ui { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe9c8;&nbsp;'); }

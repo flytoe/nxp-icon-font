@@ -452,3 +452,7 @@
 .icon-nxp-wireless-charger:before { content: '\e9c2'; } /* '' */
 .icon-nxp-wireless:before { content: '\e9c3'; } /* '' */
 .icon-nxp-worldwide-location:before { content: '\e9c4'; } /* '' */
+.icon-fa-circle-check-ui:before { content: '\e9c5'; } /* '' */
+.icon-fa-circle-exclamation-bold-ui:before { content: '\e9c6'; } /* '' */
+.icon-fa-circle-exclamation-ui:before { content: '\e9c7'; } /* '' */
+.icon-fa-circle-xmark-ui:before { content: '\e9c8'; } /* '' */
