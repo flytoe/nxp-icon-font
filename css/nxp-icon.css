@@ -1,11 +1,11 @@
 @font-face {
   font-family: 'nxp-icon';
-  src: url('../font/nxp-icon.eot?46382775');
-  src: url('../font/nxp-icon.eot?46382775#iefix') format('embedded-opentype'),
-       url('../font/nxp-icon.woff2?46382775') format('woff2'),
-       url('../font/nxp-icon.woff?46382775') format('woff'),
-       url('../font/nxp-icon.ttf?46382775') format('truetype'),
-       url('../font/nxp-icon.svg?46382775#nxp-icon') format('svg');
+  src: url('../font/nxp-icon.eot?41675671');
+  src: url('../font/nxp-icon.eot?41675671#iefix') format('embedded-opentype'),
+       url('../font/nxp-icon.woff2?41675671') format('woff2'),
+       url('../font/nxp-icon.woff?41675671') format('woff'),
+       url('../font/nxp-icon.ttf?41675671') format('truetype'),
+       url('../font/nxp-icon.svg?41675671#nxp-icon') format('svg');
   font-weight: normal;
   font-style: normal;
 }
@@ -15,7 +15,7 @@
 @media screen and (-webkit-min-device-pixel-ratio:0) {
   @font-face {
     font-family: 'nxp-icon';
-    src: url('../font/nxp-icon.svg?46382775#nxp-icon') format('svg');
+    src: url('../font/nxp-icon.svg?41675671#nxp-icon') format('svg');
   }
 }
 */
@@ -511,3 +511,5 @@
 .icon-fa-circle-exclamation-bold-ui:before { content: '\e9c6'; } /* '' */
 .icon-fa-circle-exclamation-ui:before { content: '\e9c7'; } /* '' */
 .icon-fa-circle-xmark-ui:before { content: '\e9c8'; } /* '' */
+.icon-nxp-ac:before { content: '\e9c9'; } /* '' */
+.icon-nxp-dc:before { content: '\e9ca'; } /* '' */
