@@ -1,0 +1,6 @@
+prefix must be deleted in config.json
+
+  "css_prefix_text": "",
+
+
+in demo.html all "icon-" must be deleted
